@@ -1,0 +1,71 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M      (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Controls.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Controls.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Fuzzy.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Fuzzy.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Genetic.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Genetic.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Imaging.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Imaging.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Imaging.Formats.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Imaging.Formats.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Imaging.IPPrototyper.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Imaging.IPPrototyper.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.MachineLearning.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.MachineLearning.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Math.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Math.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Neuro.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Neuro.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Robotics.Lego.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Robotics.Lego.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Robotics.Surveyor.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Robotics.Surveyor.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.DirectShow.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.DirectShow.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.Kinect.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.Kinect.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.VFW.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.VFW.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.Ximea.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Video.Ximea.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Vision.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\AForge.Vision.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\Emgu.CV.World.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\Emgu.CV.World.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Deployment.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Deployment.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Drawing.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\ZedGraph.dll (this message is harmless)
+Loading C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\ZedGraph.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Frederik\Desktop\FullProgram (Den vi afleverer)\Final Hifi test\Castle Dash_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
